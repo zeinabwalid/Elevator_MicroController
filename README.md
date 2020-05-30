@@ -33,63 +33,6 @@ We used Flex sensor to sense if the maximum weight is reached in the elevator or
 
 <h3><span style="color: grey ; ">Default view of Elevator System.</span></h3>
 
-![default](default.png)
+![default](circuit.PNG)
 <br>
-
-<h3><span style="color: grey ; ">Two push buttons to adjust duration needed by user.</span></h3>
-
-
- <center> <img src = "user_in_pushbuuton.png">  </center>
-<br>
-
-<h3><span style="color: grey ; ">User's adjustment for the speed of counting down:</span></h3>
-<h5><span style="color: grey ; ">1- High Speed.</span></h5>
-
-<center> <img src = "high_speed.png">  </center>
-<br>
-
-<h5><span style="color: grey ; ">2- Normal Speed.</span></h5>
-
- <center> <img src = "normal_spead.png">  </center>
-<br>
-
-<h5><span style="color: grey ; ">3- Low Speed.</span></h5>
-  
-  <center> <img src = "low_speed.png">  </center>
-<br>
-
-
-<h3><span style="color: grey ; ">The duration displayed on 7 segments up on user's adjustment.</span></h3>
-
-  ![default](user_input.png)
-
-<br>
-
-
-<h3><span style="color: grey ; ">Start button that confirm all user's adjustments.</span></h3>
-
-
-<center> <img src = "start_button.png">  </center>
-
-<br>
-
-<h3><span style="color: grey ; ">Count Down displayed on 7 segments.</span></h3>
-
-![default](count_down.png)
-
-<br>  
-
-<h3><span style="color: grey ; ">Toogling of the two leds after the 7 segments reach to zero.</span></h3>
-
-
-<center> <img src = "toogle.png">  </center>
-<br>
-
-<h3><span style="color: grey ; ">New cycle for the other led.</span></h3>
-
-
-<center> <img src = "new_cycle.png">  </center>
-
-<br>
-
 
