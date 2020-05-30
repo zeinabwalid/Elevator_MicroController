@@ -28,41 +28,6 @@ We used Flex sensor to sense if the maximum weight is reached in the elevator or
 </p> 
 <br>
 
-<h2> <span style="color: pink ; "> Code: </span></h2>
-
-<h3><span style="color: grey ; ">1- Initializations for registers and pins.</span></h3>
-
-```c
-
-```
-<h3><span style="color: grey ; ">2- Function that represent the arrival of elevator in each floor.</span> </h3>
-
-```c
-
- ```
-
- <h3><span style="color: grey ; ">3- Function that open door of elevator for 5 sec in each floor by timer.</span></h3> 
-
-```c
-
-```
-
-<h3><span style="color: grey ; ">4-Functions that take requests of floors from user and save them, then order these requests and turn on the required led of the floor.</span> </h3> 
-
-```c
-
-```
-
-<h3><span style="color: grey ; ">5- The count down of 7 segment till reach zero then toogle led and start counting again and so on.</span>  </h3> 
-
-```c
-
-```
-<h3><span style="color: grey ; ">6- Two look up tables , the first is to regulate input of 7 segment and the second is to regulate speed adjusted by user"Slow or Normal or fast".</span></h3> 
-
-```c
-
-```
 
 <h2> <span style="color: pink ; "> Schematic Circuit : </span></h2>
 
